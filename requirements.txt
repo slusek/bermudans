@@ -1,0 +1,3 @@
+pandas
+QuantLib-Python
+matplotlib
